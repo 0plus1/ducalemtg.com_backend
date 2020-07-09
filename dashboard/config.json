@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://localhost:1337/parse",
+      "appId": "com.zeroplusone.ducalemtg",
+      "masterKey": "SEDXsOc0VOn9ApnksY87",
+      "appName": "DucaleMTG"
+    },
+    {
+      "serverURL": "https://ducalemtg.herokuapp.com/parse",
+      "appId": "com.zeroplusone.ducalemtg",
+      "masterKey": "SEDXsOc0VOn9ApnksY87",
+      "appName": "DucaleMTG"
+    }
+  ]
+}
